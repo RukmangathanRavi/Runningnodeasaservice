@@ -1,0 +1,38 @@
+2020-09-01 18:34:34 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Rupesh\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file "C:\Users\Rupesh\Desktop\New folder (3)\server" --scriptoptions= --log "application as Windows Service wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-09-01 18:34:34 - Started 5140
+2020-09-01 19:58:23 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Rupesh\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file "C:\Users\Rupesh\Desktop\New folder (3)\server" --scriptoptions= --log "application as Windows Service wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-09-01 19:58:23 - Started 6884
+2020-09-01 20:20:12 - Stopping applicationaswindowsservice.exe
+2020-09-01 20:20:12 - ProcessKill 6884
+2020-09-01 20:20:12 - Found child process: 7008 Name: conhost.exe
+2020-09-01 20:20:12 - Found child process: 7792 Name: node.exe
+2020-09-01 20:20:12 - Stopping process 7008
+2020-09-01 20:20:12 - Send SIGINT 7008
+2020-09-01 20:20:12 - SIGINT to 7008 failed - Killing as fallback
+2020-09-01 20:20:12 - Stopping process 7792
+2020-09-01 20:20:12 - Send SIGINT 7792
+2020-09-01 20:20:12 - SIGINT to 7792 failed - Killing as fallback
+2020-09-01 20:20:12 - Stopping process 6884
+2020-09-01 20:20:12 - Send SIGINT 6884
+2020-09-01 20:20:12 - SIGINT to 6884 failed - Killing as fallback
+2020-09-01 20:20:12 - Finished applicationaswindowsservice.exe
+2020-09-01 20:20:24 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Rupesh\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file "C:\Users\Rupesh\Desktop\New folder (3)\server" --scriptoptions= --log "application as Windows Service wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-09-01 20:20:24 - Started 2696
+2020-09-01 23:34:18 - Stopping applicationaswindowsservice.exe
+2020-09-01 23:34:18 - ProcessKill 2696
+2020-09-01 23:34:18 - Found child process: 12960 Name: conhost.exe
+2020-09-01 23:34:18 - Found child process: 8772 Name: node.exe
+2020-09-01 23:34:18 - Stopping process 12960
+2020-09-01 23:34:18 - Send SIGINT 12960
+2020-09-01 23:34:18 - SIGINT to 12960 failed - Killing as fallback
+2020-09-01 23:34:18 - Stopping process 8772
+2020-09-01 23:34:18 - Send SIGINT 8772
+2020-09-01 23:34:18 - SIGINT to 8772 failed - Killing as fallback
+2020-09-01 23:34:18 - Stopping process 2696
+2020-09-01 23:34:18 - Send SIGINT 2696
+2020-09-01 23:34:18 - SIGINT to 2696 failed - Killing as fallback
+2020-09-01 23:34:18 - Finished applicationaswindowsservice.exe
+2020-09-02 10:03:51 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Rupesh\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file "C:\Users\Rupesh\Desktop\New folder (3)\server" --scriptoptions= --log "application as Windows Service wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-09-02 10:03:51 - Started 5288
+2020-09-02 11:41:22 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Rupesh\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file "C:\Users\Rupesh\Desktop\New folder (3)\server" --scriptoptions= --log "application as Windows Service wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-09-02 11:41:22 - Started 4688
